@@ -1,4 +1,9 @@
 <h1>Hi there! I'm Kacper :D</h1>
+<br/>
+<hr/>
+<br/>
+
+
 
 <!--
 **KacperNlp/KacperNlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
