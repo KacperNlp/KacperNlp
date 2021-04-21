@@ -1,10 +1,23 @@
-### Hi there 👋, I'm Kacper :D
-#### Junior Frontend-dev
+# Hi there 👋, I'm Kacper :D
+## Junior Frontend-dev
 ![Junior Frontend-dev](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+### About me:
 
 I'm 20yo junior frontend-dev and I'm from Poland. I really enjoy learning languages and frameworks, especially React. If you want to know something more about me, you can check my website: https://kacpernlp.pl/
 
-Skills: REACT / JS / HTML / CSS / Sass / node.js / Pug
+### My skills: 
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Sass/Scss</li>
+  <li>node.js</li>
+  <li>mongoDb</li>
+  <li>express</li>
+</ul>
 
 - 🌱 I’m currently learning react and redux 
 - 📫 How to reach me: kacper.nlp@wp.pl 
