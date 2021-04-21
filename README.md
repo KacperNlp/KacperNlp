@@ -1,8 +1,10 @@
-<h1>Hi there! I'm Kacper :D</h1>
-<br/>
-<hr/>
-<br/>
+### Hi there! I'm Kacper :D
 
+## About me :
+
+I'm 20yo junior frontend-dev and I'm from Poland. I really enjoy learning languages and frameworks, especially React. If you want to know something more about me, you can check my website: https://kacpernlp.pl/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KacperNlp)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperNlp)](https://github.com/anuraghazra/github-readme-stats)
 
 
