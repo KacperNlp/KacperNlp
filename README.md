@@ -20,19 +20,13 @@ I'm 20yo junior frontend-dev and I'm from Poland. I really enjoy learning langua
 </ul>
 
 <br/>
-<br/>
-<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KacperNlp&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperNlp&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-<br/>
-<br/>
 
 🌱 I’m currently learning react and redux <br/>
 📫 How to reach me: kacper.nlp@wp.pl 
-<br/>
-<br/>
 <br/>
 
