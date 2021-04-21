@@ -19,8 +19,13 @@ I'm 20yo junior frontend-dev and I'm from Poland. I really enjoy learning langua
   <li>express</li>
 </ul>
 
-🌱 I’m currently learning react and redux 
+<br/>
+<br/>
+<br/>
+
+🌱 I’m currently learning react and redux <br/>
 📫 How to reach me: kacper.nlp@wp.pl 
+<br/>
 <br/>
 <br/>
 
