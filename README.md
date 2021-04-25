@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kacper :D
 ## Junior Frontend-dev
-![Junior Frontend-dev](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<img src="./images/githubBg.png">
 
 ### About me:
 
