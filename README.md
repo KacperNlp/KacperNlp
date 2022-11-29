@@ -4,7 +4,7 @@
 
 ### About me:
 
-I'm 20yo junior frontend-dev and I'm from Poland. I really enjoy learning languages and frameworks, especially React. If you want to know something more about me, you can check my website: https://kacpernlp.pl/
+I'm junior frontend-dev and I'm from Poland. I really enjoy learning languages and frameworks, especially React. If you want to know something more about me, you can check my website: https://kacpernlp.pl/
 
 ### My skills: 
 
