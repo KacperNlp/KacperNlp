@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Kacper :D
-## Junior Frontend-dev
+## Frontend-dev
 <img src="./images/githubBg.png">
 
 ### About me:
 
-I'm junior frontend-dev and I'm from Poland. I really enjoy learning languages and frameworks, especially React. If you want to know something more about me, you can check my website: https://kacpernlp.pl/
+I'm frontend-dev and I'm from Poland. I really enjoy learning languages and frameworks, especially React. If you want to know something more about me, you can check my website: https://kacpernlp.pl/
 
 ### My skills: 
 
