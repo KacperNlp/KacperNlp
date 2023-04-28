@@ -4,7 +4,7 @@
 
 ### About me:
 
-I'm frontend-dev and I'm from Poland. I really enjoy learning languages and frameworks, especially React. If you want to know something more about me, you can check my website: https://kacpernlp.pl/
+I'm frontend-dev and I'm from Poland. I really enjoy learning languages and frameworks, especially Vue. If you want to know something more about me, you can check my website: https://kacpernlp.pl/
 
 ### My skills: 
 
@@ -12,11 +12,12 @@ I'm frontend-dev and I'm from Poland. I really enjoy learning languages and fram
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>React</li>
+  <li>Vue</li>
+  <li>TypeScript</li>
   <li>Sass/Scss</li>
-  <li>node.js</li>
-  <li>mongoDb</li>
-  <li>express</li>
+  <li>PHP</li>
+  <li>Wordpress</li>
+  <li>Shopware</li>
 </ul>
 
 <br/>
@@ -26,7 +27,7 @@ I'm frontend-dev and I'm from Poland. I really enjoy learning languages and fram
 
 <br/>
 
-🌱 I’m currently learning react and redux <br/>
-📫 How to reach me: kacper.nlp@wp.pl 
+🌱 I’m currently learning vue and nuxt <br/>
+📫 How to reach me: kacper.nlpa@gmail.com
 <br/>
 
