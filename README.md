@@ -13,7 +13,7 @@ I'm frontend-dev and I'm from Poland. I really enjoy learning languages and fram
   <li>CSS</li>
   <li>JavaScript</li>
   <li>Vue</li>
-  <li>TypeScript</li>
+  <li>Nuxt</li>
   <li>Sass/Scss</li>
   <li>PHP</li>
   <li>Wordpress</li>
