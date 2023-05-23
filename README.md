@@ -13,10 +13,13 @@ I'm frontend-dev and I'm from Poland. I really enjoy learning languages and fram
   <li>CSS</li>
   <li>JavaScript</li>
   <li>Vue</li>
-  <li>Nuxt</li>
+  <li>React</li>
+  <li>Nuxt/Pinia</li>
   <li>Sass/Scss</li>
+  <li>Tailwind</li>
   <li>PHP</li>
   <li>Wordpress</li>
+  <li>Laravel</li>
   <li>Shopware</li>
 </ul>
 
