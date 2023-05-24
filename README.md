@@ -5,5 +5,5 @@
 🌱 I’m currently learning vue and nuxt <br/>
 📫 How to reach me: kacper.nlpa@gmail.com
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperNlp&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KacperNlp&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)]
 
