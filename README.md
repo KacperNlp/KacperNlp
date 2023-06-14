@@ -3,5 +3,5 @@
 <p>Frontend developer with a great passion for programming. I really enjoy learning languages and frameworks, especially Vue. If you want to know something more about me, you can check my website: https://kacpernlp.pl/</p>
 
 <p>📚 I’m currently learning Vue and Laravel</p>
-<p>📫 How to reach me: kacper.nlpa@gmail.com</p>
+<p>📫 How to reach me: https://kacperdev.pl/</p>
 
